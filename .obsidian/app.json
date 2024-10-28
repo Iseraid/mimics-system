@@ -1,0 +1,7 @@
+{
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Записки",
+  "attachmentFolderPath": "./attachments"
+}
